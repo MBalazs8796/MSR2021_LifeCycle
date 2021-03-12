@@ -1,0 +1,16 @@
+statName,statVal
+AVG_time,"240 days, 17:59:04.955719"
+STD_time,"440 days, 3:56:57.868809"
+MED_time,"58 days, 14:11:13"
+Same_fixer_perc,0.4043393380069216
+AVG_time_same_fixer,"81 days, 14:38:07.157118"
+STD_time_same_fixer,"217 days, 10:16:27.841304"
+MED_time_same_fixer,"4 days, 2:05:35"
+AVG_time_diff_fixer,"349 days, 10:23:25.575941"
+STD_time_diff_fixer,"514 days, 11:00:29.578140"
+MED_time_diff_fixer,"136 days, 13:12:23"
+Same_auth_perc,0.9035005989617996
+Same_commmit_perc,0.7622343493500155
+Multi_src,3042
+Error_num,4017
+AVG_stub_len,22.91892197939078
